@@ -44,7 +44,7 @@ Spring Boot: 3.1.3
 ## Install bootstrap and material UI in angular project:
 <pre>
 Bootstrap steps:
-1. npm install bootstrap jQuery
+1. npm install bootstrap jquery
 2. In angular.json file
    In styles array: 
         "src/styles.css",
